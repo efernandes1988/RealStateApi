@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="D:\Udemy Courses\Asp.Net Core - The Complete Guide To Build RESTful Api's\RealEstateApi\RealEstateApi\obj\Release\net7.0\win-x86\PubTmp\Out\" />
+  <dbfullsql path="D:\Udemy Courses\Asp.Net Core - The Complete Guide To Build RESTful Api's\RealEstateApi\RealEstateApi\obj\Release\net7.0\win-x86\PubTmp\EFSQLScripts\RealEstateApi.Data.ApiDbContext.sql" />
+</sitemanifest>

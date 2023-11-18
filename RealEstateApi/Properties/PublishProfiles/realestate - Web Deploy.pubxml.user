@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAvHkdknB9Yk+eb1xBwdqEDgAAAAACAAAAAAAQZgAAAAEAACAAAABqRRKR3wizLGu9XL3/YYgeFsHZ2kEmtFMtCsKV7e2w5wAAAAAOgAAAAAIAACAAAAAeyxLy2ZmGA5u3MRr660DIuTLSwVzYO/EowddjsOlUAoAAAAAEneCdccOw8mQBGAWunbcfJREmBLLJLfQRzQ0dNS9M026XoBDoEB31hlIabO28ZgLvCFDj2pCjVMpWUdcOZ5IfvIG2yOXwkuR51cGS6019CE7N8PbOcRBOinmdU8YYyIGNs/+AvVC2/BEqcmZvR3l7xS0vJDzdX/1NXRvRn5fG9UAAAADKQ6+p/1lwEq9FZbnV2TcrD/xXDbUp+SRuxfdOMGcsa/x3mWT0Z4Qv/yPak6X29TN5zpTgCUETlEu7T/feFoCm</EncryptedPassword>
+    <History>True|2023-05-03T13:36:41.4649935Z;True|2023-05-03T14:29:38.5927589+01:00;False|2023-05-03T14:26:22.8024333+01:00;False|2023-05-03T14:25:25.8934603+01:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="RealEstateApi.Data.ApiDbContext">
+      <Value>Server=tcp:realestatedbserver1.database.windows.net,1433%3bInitial Catalog=RealEstateDb%3bPersist Security Info=False%3bUser ID=efernandes%3bPassword=Ef13101988%3bMultipleActiveResultSets=False%3bEncrypt=True%3bTrustServerCertificate=False%3bConnection Timeout=30%3b</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

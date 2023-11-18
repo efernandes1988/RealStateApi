@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="realestate" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\Udemy\ Courses\\Asp\.Net\ Core\ -\ The\ Complete\ Guide\ To\ Build\ RESTful\ Api's\\RealEstateApi\\RealEstateApi\\obj\\Release\\net7\.0\\win-x86\\PubTmp\\Out\\$" />
+  </parameter>
+  <parameter name="RealEstateApi.Data.ApiDbContext" description="" value="Server=tcp:realestatedbserver1.database.windows.net,1433;Initial Catalog=RealEstateDb;Persist Security Info=False;User ID=efernandes;Password=Ef13101988;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;" tags="dbfullsql">
+    <parameterEntry kind="ProviderPath" scope="dbfullsql" match="^D:\\Udemy\ Courses\\Asp\.Net\ Core\ -\ The\ Complete\ Guide\ To\ Build\ RESTful\ Api's\\RealEstateApi\\RealEstateApi\\obj\\Release\\net7\.0\\win-x86\\PubTmp\\EFSQLScripts\\RealEstateApi\.Data\.ApiDbContext\.sql$" />
+  </parameter>
+</parameters>
